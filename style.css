@@ -25,16 +25,11 @@ header {
 .cabecalho-lista-item{
 
     margin: 0 16px;
-    font-size: 24px;
+   
+ font-size: 24px;
 }
-*{
-    margin: 0;
-    padding: 0;
-}
-.escola-imagem{
-    width: 25%;
-}
-.escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
-    color: white;
+</body>
+</html>
+body {
+    font-family: 'Poppins', sans-serif;
 }
